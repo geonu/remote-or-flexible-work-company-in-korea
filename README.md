@@ -2,7 +2,7 @@
 
 ## 자율 출퇴근 && 원격 근무
 
-### StyleShare
+### [StyleShare](https://about.stylesha.re/)
 * 진짜로 자율 출퇴근
 * 진짜로 원격 근무 가능
 * 5년 근속시 항공비 및 숙박비 지원 + 레프레시 휴가 제공
